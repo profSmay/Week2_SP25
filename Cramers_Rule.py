@@ -1,4 +1,3 @@
-
 #region imports
 from Determinant import Determinant
 from Gauss_Elim import popColumn, insertColumn
